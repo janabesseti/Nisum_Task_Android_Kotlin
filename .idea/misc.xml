@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Jana/Nisum_Task_Android_Kotlin/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Jana/Nisum_Task_Android_Kotlin/app/src/main/res/layout/recycler_list_row.xml" value="0.1" />
+        <entry key="..\:/Jana/Nisum_Task_Android_Kotlin/app/src/main/res/layout/recycler_list_word_row.xml" value="0.14990942028985507" />
+        <entry key="..\:/Jana/Nisum_Task_Android_Kotlin/app/src/main/res/layout/spinner_left_aligned.xml" value="0.14990942028985507" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="dagger.Provides" />
+    </list>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

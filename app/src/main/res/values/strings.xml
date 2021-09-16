@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task_Android_Kotlin</string>
+    <string name="searchHint">Enter a Word!</string>
+    <string name="short_form">Short Form:</string>
+    <string name="selected_item">Selected item:</string>
+
+    <string-array name="searchParameters">
+        <item>Abbreviation</item>
+        <item>Fullforms</item>
+    </string-array>
+</resources>
